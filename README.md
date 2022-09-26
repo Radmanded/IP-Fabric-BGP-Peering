@@ -3,6 +3,7 @@
 </h1> 
 
 In today's business environment, companies need to deliver the best customer experience and deliver it consistently. With the intense competition, customers have choices and will jump ship at a moment's notice. Companies know the importance of automation and have started their journeys toward autonomous networks to provide a consistent customer experience that has their customers raving about their products and service. However, how is that achieved?
+
 Driving digital transformation by automating can:
 - Eliminate technical debt and increase efficiency
 - Reduce human error, which is responsible for 75% of network outages
